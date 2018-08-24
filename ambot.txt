@@ -1,2 +1,10 @@
 ambot?
 wheee?
+
+
+function memberReigns(){
+var render = savage.reigns();
+commit(render);
+}
+
+memberReigns();
